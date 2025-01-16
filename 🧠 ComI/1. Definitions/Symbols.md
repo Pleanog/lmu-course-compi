@@ -1,0 +1,10 @@
+- $\mathcal{O}$ : Represents the observation space.
+-  𝒜 : Represents the action space.
+- ℝ: Real numbers, representing percentage changes.
+- T: Often used for Timestamps for observations.
+- × (Cartesian product): Combines sets to form tuples of all possible combinations.
+- 𝜋 The policy function. Maps observations to actions. Example: `𝜋: O → A`
+- $\pi(o)$ : represents the action that the agent should take when it observes $\mathcal{o}$  (an element of the observation space $\mathcal{O}$ .
+- $\mathcal{y}$ : used to denote whether a particular goal or condition (such as "the environment is clean") has been achieved (true, or false / 1 or 0)
+- $\mathcal{B}$ : The result of the function basically $\mathcal{y}$ 
+- Z: The time space (timeline).  It is defining that the observations (𝑜ₜ) and actions (𝑎ₜ) happen over time.

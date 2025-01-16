@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "3ecb21059ed17615",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ae7037f1ef416a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "711f1f87425322df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🧠 ComI/1. Definitions/Definition 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Definition 6"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad25e6bf1bc6aea1",
+    "type": "split",
+    "children": [
+      {
+        "id": "841937de788f232f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18b8d3e0e5863e42",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9885cacb0e3493ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "24022eb9b88ca3ac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 379.5
+  },
+  "right": {
+    "id": "b455d101fe051e52",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e6723b31fe74985",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b0f4fce1ea6a44d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🖌️ PDX/ℹ️ Allgemeine Infos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ℹ️ Allgemeine Infos"
+            }
+          },
+          {
+            "id": "a157069354db6cfe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🖌️ PDX/ℹ️ Allgemeine Infos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ℹ️ Allgemeine Infos"
+            }
+          },
+          {
+            "id": "ad86fcfbd5d3aba6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1925f4188cb3b015",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🖌️ PDX/ℹ️ Allgemeine Infos.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ℹ️ Allgemeine Infos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "711f1f87425322df",
+  "lastOpenFiles": [
+    "🧠 ComI/1. Definitions/Definition 17 (Pareto front for strategies).md",
+    "🧠 ComI/1. Definitions/Definition 6.md",
+    "Übung 16.01.25.md",
+    "🧠 ComI/Lectures/2025-01-14 Lecture 12.md",
+    "🧠 ComI/1. Definitions/Definition 14 (common-payoff game).md",
+    "Pasted image 20250116134230.png",
+    "Pasted image 20250116130817.png",
+    "Pasted image 20250116130758.png",
+    "🧠 ComI/1. Definitions/Definition 15 (zero-sum game).md",
+    "🧠 ComI/1. Definitions/Definition 8.md",
+    "🧠 ComI/1. Definitions/Definition 9.md",
+    "🧠 ComI/1. Definitions/def-sheet-2024-11-12.pdf",
+    "🧠 ComI/3. Theorems/Theorem 1.md",
+    "🧠 ComI/3. Theorems/Theorem 2.md",
+    "🧠 ComI/1. Definitions/Definition18.md",
+    "Pasted image 20250116130131.png",
+    "Untitled 1.md",
+    "🧠 ComI/2. Algorithms/Algorithm 3 (Simulated Annealing).md",
+    "🧠 ComI/Images/Pasted image 20241210114832.png",
+    "🧠 ComI/2. Algorithms/Algorithm 4 (basic evolutionary algorithm).md",
+    "🧠 ComI/2. Algorithms/Algorithm 1 (brute force (policy)).md",
+    "🧠 ComI/2. Algorithms/Algorithm 2 (random search(policy)).md",
+    "🧠 ComI/Lecture Slides-20241205/2024-11-12 Lecture 05/coin-2024-11-12-scribbled.pdf",
+    "🧠 ComI/Lecture Slides-20241205/2024-11-05 Lecture 04/coin-2024-11-05-scribbled.pdf",
+    "🧠 ComI/1. Definitions/Definition 13 (normal-form game).md",
+    "🧠 ComI/1. Definitions/Definition 19.md",
+    "🧠 ComI/3. Theorems/Theorem 3.md",
+    "🧠 ComI/3. Theorems",
+    "🧠 ComI/1. Definitions/Definition 10.md",
+    "🧠 ComI/1. Definitions/Definition 7.md",
+    "🧠 ComI/1. Definitions/Definition 5 (population-based optimization (alternate)).md",
+    "🧠 ComI/1. Definitions/Definition 4 (population-based optimization).md",
+    "🧠 ComI/1. Definitions/Definition 3 (optimization (policy)).md",
+    "🧠 ComI/1. Definitions/Definition 2 (optimisation).md",
+    "🧠 ComI/1. Definitions/Definition 1 (Agent).md",
+    "🧠 ComI/Images/Pasted image 20250114134621.png",
+    "🧠 ComI/Reading/mas.pdf",
+    "🧠 ComI/Images/Pasted image 20241210114854.png",
+    "🧠 ComI/Images/Pasted image 20250114124910.png",
+    "🧠 ComI/Images/Pasted image 20250114123839.png",
+    "🧠 ComI/Reading/Artificial Intelligence - A Modern Approach (3rd Edition).pdf",
+    "🧠 ComI/Images/Pasted image 20241210114846.png",
+    "🧠 ComI/2. Algorithms",
+    "🖌️ PDX",
+    "🧠 ComI/Lecture Slides-20241205/2024-12-05 Lecture 09/coin-2024-12-05-preview.pdf",
+    "🧠 ComI/Lecture Slides-20241205/2024-12-03 Lecture 08/coin-2024-12-03-scribbled.pdf"
+  ]
+}
