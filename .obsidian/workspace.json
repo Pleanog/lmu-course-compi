@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7ae7037f1ef416a3",
+        "id": "6ae71ac544c29605",
         "type": "tabs",
         "children": [
           {
-            "id": "711f1f87425322df",
+            "id": "bf67c5dcd33197f2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🧠 ComI/1. Definitions/Definition 6.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Definition 6"
+              "title": "New tab"
             }
           }
         ]
@@ -144,13 +140,23 @@
               "icon": "lucide-list",
               "title": "Outline of ℹ️ Allgemeine Infos"
             }
+          },
+          {
+            "id": "76a2b1ac0665dd6d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 485.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,13 +165,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "711f1f87425322df",
+  "active": "bf67c5dcd33197f2",
   "lastOpenFiles": [
-    "🧠 ComI/1. Definitions/Definition 17 (Pareto front for strategies).md",
+    "🧠 ComI/Übung 16.01.25.md",
     "🧠 ComI/1. Definitions/Definition 6.md",
+    "🧠 ComI/1. Definitions/Definition 17 (Pareto front for strategies).md",
     "Übung 16.01.25.md",
     "🧠 ComI/Lectures/2025-01-14 Lecture 12.md",
     "🧠 ComI/1. Definitions/Definition 14 (common-payoff game).md",
@@ -198,7 +206,6 @@
     "🧠 ComI/1. Definitions/Definition 4 (population-based optimization).md",
     "🧠 ComI/1. Definitions/Definition 3 (optimization (policy)).md",
     "🧠 ComI/1. Definitions/Definition 2 (optimisation).md",
-    "🧠 ComI/1. Definitions/Definition 1 (Agent).md",
     "🧠 ComI/Images/Pasted image 20250114134621.png",
     "🧠 ComI/Reading/mas.pdf",
     "🧠 ComI/Images/Pasted image 20241210114854.png",
