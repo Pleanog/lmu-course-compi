@@ -162,7 +162,7 @@ _The **environment** provides real-world **observations** and **rewards** to the
 
 **Split structure of the agent**  
 ![[Pasted image 20250116130758.png]]
-_The **Split structure of the agent**, which now consists of an **actor** and a **critic**. The **actor** determines **actions** by following a policy, while the **critic** evaluates these actions based on a **value function**. The * **observations**, **rewards**, and **goals**, are shared between the actor and the critic._
+_The **Split structure of the agent**, which now consists of an **actor** and a **critic**. The **actor** determines **actions** by following a policy, while the **critic** evaluates these actions based on a **value function**. The **observations**, **rewards**, and **goals**, are shared between the actor and the critic._
 
 ##### **Why Use a World Model?**  
 The primary reason is efficiency and safety. In complex or resource-intensive environments, training purely through real-world interactions can be slow, costly, or risky. A world model allows for faster iteration and experimentation without incurring these risks.
