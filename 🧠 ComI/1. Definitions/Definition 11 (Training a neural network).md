@@ -1,12 +1,8 @@
 
-
 > [!CITE] Definition 11 (Training a neural network)
-> Let ...
-> 
->$$
-\tau(\overline{\mathcal{N}}) = \sum_{i=1}^N \left( \mathcal{N}(\mathbf{x}_i) - \mathbf{y}_i \right)^2
->$$
-
+> Let $\mathcal{N} : \mathbb{R}^p \to \mathbb{R}^q$ be a neural network with $n$ weights $\overline{\mathcal{N}} = w ⧺ b \in \mathbb{R}^n$ as in [[Definition 8 (neural network)]]. Note that thus $|\overline{\mathcal{N}}|=n$. Let $\tau:\mathbb{R}^n\to\mathbb{R}$ be a target function as in [[Definition 2 (optimisation)]]. Note that thus $\mathcal{T}=\mathbb{R}$. The process of optimizing the network weights $|\overline{\mathcal{N}}|$ so that $\tau(\overline{\mathcal{N}})$ becmes minimal is called training.
+> - Let $\mathbb{T}=\{(x_i,y_i):i=1,\dots,N\}$ be a set of $N$ points of training data, where $x_i \in\mathbb{R}^p$ and $y_i,\in\mathbb{R}^q$ for all $i$. If $\tau$ is of the form $$\tau(\overline{\mathcal{N}}) = \sum_{i=1}^N \left( \mathcal{N}(\mathbf{x}_i) - \mathbf{y}_i \right)^2$$
+>   or a simmilar form, the process of training $\mathcal{N}$ is called supervised learning
 
 ### ELI5
 
@@ -55,3 +51,50 @@ The goal during training is typically to **minimize** this loss function (i.e., 
 
 - Larger errors are penalized more heavily than smaller ones (this is the basis of **mean squared error** (MSE) as a loss function). (it's like saying, "If you're way off, that's a bigger problem").
 - Positive and negative errors don’t cancel each other out.
+
+---
+---
+
+### 1. **Understanding the Neural Network Notation**:
+
+- The statement begins with: $$\mathcal{N} : \mathbb{R}^p \to \mathbb{R}^q$$
+- This means that the neural network **$\mathcal{N}$** is a function that takes inputs from a $p$-dimensional space ($\mathbb{R}^p$) and maps them to a $q$-dimensional space ($\mathbb{R}^q$).
+    - **$\mathbb{R}^p$**: This is the space of all ppp-dimensional real-valued vectors. These are the input features of the neural network.
+    - **$\mathbb{R}^q$**: This is the space of all $q$-dimensional real-valued vectors. These are the outputs or predictions of the neural network.
+
+---
+
+### 2. **Weights of the Neural Network**:
+
+- The weights of the neural network are denoted as: $\overline{\mathcal{N}} = w ⧺ b \in \mathbb{R}^n$
+- Here’s what each term means:
+    - **$\overline{\mathcal{N}}$**: This is the combined vector of all the parameters of the neural network. These parameters consist of:
+        - **$w$**: The weights, which are assigned to the edges of the neural network and determine the contribution of each input to the network’s outputs.
+        - **$b$**: The biases, which are scalar values added to the output of each neuron to allow the network to better fit the data.
+    - **nnn**: The total number of parameters in the network, i.e., the sum of all weights and biases.
+
+---
+
+### 3. **The Symbol ⧺⧺⧺ (Concatenation)**:
+
+- The symbol ⧺ represents **concatenation** in this context. It means that the weights w and the biases b are combined into a single vector: $\overline{\mathcal{N}} = w ⧺ b$ This essentially means:
+    - Stack all the weights $w$ into one part of the vector.
+    - Stack all the biases $b$ into another part of the vector.
+    - Together, they form one long vector $\overline{\mathcal{N}}$ with $n$ elements.
+
+For example:
+- If $w = [w_1, w_2, w_3]$ and $b = [b_1, b_2]$
+- then: $\overline{\mathcal{N}} = [w_1, w_2, w_3, b_1, b_2]$
+
+---
+
+### 4. **Parameter Space**:
+
+- The combined weights and biases $\overline{\mathcal{N}}$ belong to the space Rn\mathbb{R}^nRn, meaning $\overline{\mathcal{N}}$ is an $n$-dimensional vector, where: $n = \text{(number of weights)} + \text{(number of biases)}$.
+
+---
+
+### Summary of Meaning:
+
+- The neural network $\mathcal{N}$ transforms $p$-dimensional input data into $q$-dimensional output predictions.
+- The parameters of $\mathcal{N}$ (weights $w$ and biases $b$) are combined into a single $n$-dimensional vector $\overline{\mathcal{N}}$ using the concatenation operator ⧺. This vector fully describes the "learnable" part of the neural network.

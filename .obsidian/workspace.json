@@ -6,71 +6,26 @@
       {
         "id": "b65c6c74aafc5f8e",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 35.099999999999994,
         "children": [
-          {
-            "id": "bf760e86fc5c455e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🧠 ComI/3. Theorems/Theorem 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Theorem 3"
-            }
-          },
-          {
-            "id": "f3632da10904e381",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🧠 ComI/3. Theorems/Theorem 4 (Nash's Theorem).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Theorem 4 (Nash's Theorem)"
-            }
-          },
-          {
-            "id": "682b18af70dee169",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🧠 ComI/1. Definitions/Definition 18 (best response).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Definition 18 (best response)"
-            }
-          },
           {
             "id": "3361901b9140cfbd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "🧠 ComI/1. Definitions/Definition 13 (normal-form game).md",
-                "mode": "source",
-                "source": false
+                "file": "🧠 ComI/Lecture Slides/2024-12-05 Lecture 09/coin-2024-12-05-scribbled.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Definition 13 (normal-form game)"
+              "icon": "lucide-file-text",
+              "title": "coin-2024-12-05-scribbled"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "ce6d016cc7a333f5",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 64.9,
         "children": [
           {
             "id": "ce0e552b90b4f0d6",
@@ -92,30 +47,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🧠 ComI/2. Algorithms/Algorithm 5 (gradient descent).md",
+                "file": "🧠 ComI/3. Theorems/Theorem 2 (Kolmogorov-Arnold representation 2).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Algorithm 5 (gradient descent)"
+              "title": "Theorem 2 (Kolmogorov-Arnold representation 2)"
             }
           },
           {
-            "id": "b309afde4d93e5c0",
+            "id": "3f8eae8761af2001",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🧠 ComI/1. Definitions/Definition 8 (neural network).md",
+                "file": "🧠 ComI/1. Definitions/Definition 6 (nulti-objective-optimization).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Definition 8 (neural network)"
+              "title": "Definition 6 (nulti-objective-optimization)"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -267,17 +222,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3632da10904e381",
+  "active": "18b8d3e0e5863e42",
   "lastOpenFiles": [
-    "🧠 ComI/3. Theorems/Theorem 3.md",
-    "🧠 ComI/Lecture Slides/2024-12-03 Lecture 08/coin-2024-12-03-scribbled.pdf",
-    "🧠 ComI/1. Definitions/Definition 8 (neural network).md",
+    "🧠 ComI/Images/Pasted image 20250122203651.png",
+    "🧠 ComI/Lecture Slides/2024-12-05 Lecture 09/coin-2024-12-05-scribbled.pdf",
+    "🧠 ComI/3. Theorems/Theorem 2 (Kolmogorov-Arnold representation 2).md",
     "🧠 ComI/1. Definitions/Definition 6 (nulti-objective-optimization).md",
+    "🧠 ComI/2. Algorithms/Algorithm 5 (gradient descent).md",
+    "🧠 ComI/1. Definitions/Definition 11 (Training a neural network).md",
+    "🧠 ComI/1. Definitions/Definition 8 (neural network).md",
+    "🧠 ComI/2. Algorithms/Algorithm 4 (basic evolutionary algorithm).md",
+    "🧠 ComI/1. Definitions/Definition 9.md",
+    "🧠 ComI/Lecture Slides/2024-12-03 Lecture 08/coin-2024-12-03-scribbled.pdf",
+    "🧠 ComI/1. Definitions/Definition 13 (normal-form game).md",
+    "🧠 ComI/1. Definitions/Definition 18 (best response).md",
+    "🧠 ComI/3. Theorems/Theorem 3.md",
+    "🧠 ComI/3. Theorems/Theorem 4 (Nash's Theorem).md",
     "🧠 ComI/1. Definitions/Definition 7 (pareto front for optimization).md",
     "🧠 ComI/2. Algorithms/Algorithm 6 (gradient descent (policy)).md",
     "🧠 ComI/Lecture Slides/2024-11-26 Lecture 07/coin-2024-11-26-scribbled.pdf",
-    "🧠 ComI/2. Algorithms/Algorithm 5 (gradient descent).md",
-    "🧠 ComI/2. Algorithms/Algorithm 4 (basic evolutionary algorithm).md",
     "🧠 ComI/3. Theorems/Theorem 1 (no free lunch).md",
     "🧠 ComI/Lecture Slides/2024-11-19 Lecture 06/coin-2024-11-19-scribbled.pdf",
     "🧠 ComI/Lectures/2024-11-26 Lecture 07.md",
@@ -291,14 +254,8 @@
     "🧠 ComI/1. Definitions/Definition 20 (evolutionary stable strategy 2).md",
     "🧠 ComI/1. Definitions/Definition 17 (Pareto front for strategies).md",
     "🧠 ComI/Lecture Slides/2025-01-21 Lecture 13/coin-2025-01-21-preview.pdf",
-    "🧠 ComI/3. Theorems/Theorem 4 (Nash's Theorem).md",
-    "🧠 ComI/1. Definitions/Definition 18 (best response).md",
-    "🧠 ComI/3. Theorems/Theorem 2.md",
     "🧠 ComI/1. Definitions/Definition 16 (strategy).md",
     "🧠 ComI/Lectures/2025-01-21 Lecture 13.md",
-    "🧠 ComI/Lectures/2025-01-14 Lecture 12.md",
-    "🧠 ComI/1. Definitions/Definition 19 (nash equilibrium).md",
-    "🧠 ComI/1. Definitions/Definition 1 (Agent).md",
     "🧠 ComI/Exercise",
     "🧠 ComI/Images/Pasted image 20250116130131 1.png",
     "🧠 ComI/Images/Pasted image 20250116130131.png",
@@ -307,7 +264,6 @@
     "🧠 ComI/Exercise Materials/2025-01-23 Writing Exercise 07 (Game Theory)/exercise_07.pdf",
     "🧠 ComI/Exercise Materials/2025-01-16 Reading Exercise (Current AI Research)/coin-reading-2025-01-16-source-romera-paredes-et-al.pdf",
     "🧠 ComI/Exercise Materials/2025-01-16 Reading Exercise (Current AI Research)/coin-reading-2025-01-16-source-hafner-et-al.pdf",
-    "🧠 ComI/Exercise Materials/2025-01-16 Reading Exercise (Current AI Research)/coin-reading-2025-01-16-preview.pdf",
     "🧠 ComI/Images/Pasted image 20250116134230.png",
     "🧠 ComI/Images/Pasted image 20250116130817.png",
     "🧠 ComI/Images/Pasted image 20250116130758.png",
