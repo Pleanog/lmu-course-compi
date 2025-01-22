@@ -1,8 +1,8 @@
 
 
 > [!CITE] **Definition 12 (Multi-Agent System)**  
-> Let $G={G[1],…,G^[N]}$ G = {G^{[1]}, $\dots, G^{[N]}\}G={G[1],…,G[N]} be a set of ∣G∣=N|G| = N∣G∣=N agents, where each agent G[i]G^{[i]}G[i] has its own observation space O[i]O^{[i]}O[i] and action space A[i]A^{[i]}A[i]. These are controlled by individual policies π[i]\pi^{[i]}π[i] for all i=1,…,Ni = 1, \dots, Ni=1,…,N.  
-> The multi-agent system GGG then takes a joint action a∈Aa \in Aa∈A, where A=A[1]×⋯×A[N]A = A^{[1]} \times \dots \times A^{[N]}A=A[1]×⋯×A[N], after making a joint observation o∈Oo \in Oo∈O, where O=O[1]×⋯×O[N]O = O^{[1]} \times \dots \times O^{[N]}O=O[1]×⋯×O[N]. The joint action aaa is determined by the joint policy π(o[1],…,o[N])=(a[1],…,a[N])\pi(o^{[1]}, \dots, o^{[N]}) = (a^{[1]}, \dots, a^{[N]})π(o[1],…,o[N])=(a[1],…,a[N]), where a[i]=π[i](o[i])a^{[i]} = \pi^{[i]}(o^{[i]})a[i]=π[i](o[i]) for all iii.
+> Let $G=\{G^{[1]},\dots,G^{[N]}\}$ be a set of $|G| = N$ agents, where each agent $G^{[i]}$ has its own observation space $O^{[i]}$ and action space $A^{[i]}$. These are controlled by individual policies $\pi^{[i]}$ for all $i = 1,\dots,N$.  
+> The multi-agent system $G$ then takes a joint action $a \in A$, where $A = A^{[1]} \times \dots \times A^{[N]}$, after making a joint observation $o \in O$, where $O = O^{[1]} \times \dots \times O^{[N]}$. The joint action $a$ is determined by the joint policy $\pi(o^{[1]}, \dots, o^{[N]}) = (a^{[1]}, \dots, a^{[N]})$, where $a^{[i]} = \pi^{[i]}(o^{[i]})$ for all $i$.
 
 ---
 
@@ -18,19 +18,19 @@ So, the multi-agent system is just a fancy way of describing a team of agents th
 
 ## Components of the Definition
 
-1. **Agents (GGG):** A group of NNN agents, denoted as G[1],…,G[N]G^{[1]}, \dots, G^{[N]}G[1],…,G[N], where each agent operates individually.
+1. **Agents ($G$):** A group of $N$ agents, denoted as $G^{[1]},…,G^{[N]}$, where each agent operates individually.
     
-2. **Observation Spaces (O[i]O^{[i]}O[i]):** Each agent has its own set of observations it can make about the environment.
+2. **Observation Spaces ($O^{[i]}$):** Each agent has its own set of observations it can make about the environment.
     
-3. **Action Spaces (A[i]A^{[i]}A[i]):** Each agent has its own set of actions it can take based on its observations.
+3. **Action Spaces ($A^{[i]}$):** Each agent has its own set of actions it can take based on its observations.
     
-4. **Policies (π[i]\pi^{[i]}π[i]):** Each agent has a policy—a rule or function that determines its actions based on its observations.
+4. **Policies ($\pi^{[i]}$):** Each agent has a policy—a rule or function that determines its actions based on its observations.
     
-5. **Joint Observation (ooo):** The combined observations of all agents, represented as o=(o[1],…,o[N])o = (o^{[1]}, \dots, o^{[N]})o=(o[1],…,o[N]).
+5. **Joint Observation ($o$):** The combined observations of all agents, represented as $o = (o^{[1]}, \dots, o^{[N]})$.
     
-6. **Joint Action (aaa):** The combined actions of all agents, represented as a=(a[1],…,a[N])a = (a^{[1]}, \dots, a^{[N]})a=(a[1],…,a[N]).
+6. **Joint Action ($a$):** The combined actions of all agents, represented as $a = (a^{[1]}, \dots, a^{[N]})$.
     
-7. **Joint Policy (π\piπ):** The overall policy that combines the individual policies of all agents to determine the joint action based on the joint observation.
+7. **Joint Policy ($\pi$):** The overall policy that combines the individual policies of all agents to determine the joint action based on the joint observation.
     
 
 ---

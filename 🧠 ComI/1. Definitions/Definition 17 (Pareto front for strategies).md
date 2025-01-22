@@ -1,10 +1,18 @@
+
 > [!CITE] **Definition 17 (Pareto front for strategies):**  
-Let $(G, \mathcal{A}, \mathcal{T}, \chi)$ be a normal-form game. A joint strategy $\pi(-) = (\pi^{[1]}(-), \ldots, \pi^{[|G|]}(-))$ **Pareto-dominates** another joint strategy $\pi'(-) = (\pi^{\prime[1]}(-), \ldots, \pi^{\prime[|G|]}(-))$ iff for all agents $G^{[i]}$, it holds that $\chi^{[i]}(\pi(-)) \geq \chi^{[i]}(\pi'(-))$ and there exists some agent $G^{[j]}$ so that $\chi^{[j]}(\pi(-)) > \chi^{[j]}(\pi'(-))$.  
-A joint strategy $\pi$ is **Pareto-optimal** iff there is no other strategy $\pi'$ so that $\pi'$ Pareto-dominates $\pi$.
+Let $(G, \mathcal{A}, \mathcal{T}, \chi)$ be a normal-form game. A joint strategy $\pi(-) = (\pi^{[1]}(-), \ldots, \pi^{[|G|]}(-))$ **Pareto-dominates** another joint strategy $\pi'(-) = (\pi^{\prime[1]}(-), \ldots, \pi^{\prime[|G|]}(-))$ $iff$ for all agents $G^{[i]}$, it holds that $$\chi^{[i]}(\pi(-)) \geq \chi^{[i]}(\pi'(-))$$ and there exists some agent $G^{[j]}$ so that $$\chi^{[j]}(\pi(-)) > \chi^{[j]}(\pi'(-))$$.  
+A joint strategy $\pi$ is **Pareto-optimal** $iff$ there is no other strategy $\pi'$ so that $\pi'$ Pareto-dominates $\pi$.
 
 ## ELI5
 
 The **Pareto front for strategies** is a way to figure out which strategies are "better" in a game when considering all the players involved. It's about fairness and finding strategies where no one can be made better off without making someone else worse off.
+A strategie, 
+
+- A strategy that is not dominated by any other strategy is considered **Pareto-optimal**.
+- The **Pareto front** is the set of all Pareto-optimal strategies. This means there can be multiple optimal strategies within a game.
+- If no strategy dominates the others, then all strategies are Pareto-optimal.
+
+In other words, a **zero-sum game** is always Pareto-optimal because no strategy can improve one player's outcome without reducing the other's.
 
 ---
 
@@ -12,9 +20,8 @@ The **Pareto front for strategies** is a way to figure out which strategies are 
 
 1. **Joint Strategy**:  
     A **joint strategy** is a combination of strategies chosen by all players in the game. It is written as:  
-    $\pi(-)=(\pi^{[1]}(-),\pi^{[2]}(-),\dots ,\pi^{[|G|]}(-))$  
+    $$\pi(-)=(\pi^{[1]}(-),\pi^{[2]}(-),\dots ,\pi^{[|G|]}(-))$$
     Here:
-    
     - $\pi^{[i]}(-)$ represents the strategy chosen by player $G^{[i]}$.
     - $|G|$ is the total number of players.
     

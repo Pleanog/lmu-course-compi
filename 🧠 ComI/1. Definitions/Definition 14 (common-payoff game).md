@@ -1,3 +1,4 @@
+
 > [!CITE] **Definition 14 (common-payoff game)**:
 A normal-form game $(G, \mathcal{A}, \mathcal{T}, \chi)$ is a **common-payoff game** $iff$ for any two agents $G^{[i]}, G^{[j]}$ and for any joint action $a = (a^{[1]}, \ldots, a^{[N]}) \in \mathcal{A}$, it holds that $\chi^{[i]}(a) = \chi^{[j]}(a)$.
 

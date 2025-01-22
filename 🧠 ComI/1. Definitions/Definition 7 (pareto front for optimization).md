@@ -1,3 +1,4 @@
+
 >[!CITE] Definition 7 (Pareto front for optimization):
 Let $\mathcal{E} = (\mathcal{X}, \mathcal{T}, \tau, \mathcal{E}, \langle X_u \rangle_{0 \leq u \leq t})$ be a multi-objective optimization process with ⪯\preceq⪯ being -a partial order on the multi-objective target space $\mathcal{T}$.
 > - A solution candidate $x$ **Pareto-dominates** a solution candidate $x'$ (assuming minimization) $iff$ $x \preceq x'$
@@ -13,9 +14,8 @@ The **Pareto front** is the list of all laptops that no other laptop can beat in
 ---
 
 ### Explanation of Components:
-
+**
 1. **Pareto-Dominance**:
-    
     - A solution $x$ dominates another solution $x'$ if $x$ is at least as good as $x'$ in **all objectives** and strictly better in at least one.
     - In terms of laptops: Laptop $x$ dominates $x′$ if it’s as fast or faster **and** as cheap or cheaper.
 2. **Pareto-Optimal**:
@@ -37,8 +37,8 @@ The **Pareto front** is a key concept in AI and machine learning for problems li
 
 ### Summary:
 
-1. **Pareto-Dominance**: A solution xxx dominates $x'$ if $xx is better or equal in all objectives and better in at least one.
-2. **Pareto-Optimal**: A solution xxx is Pareto-optimal if no other solution dominates it.
+1. **Pareto-Dominance**: A solution xxx dominates $x'$ if $x$ is better or equal in all objectives and better in at least one.
+2. **Pareto-Optimal**: A solution $x$ is Pareto-optimal if no other solution dominates it.
 3. **Pareto Front**: The set of all Pareto-optimal solutions, representing the best trade-offs among conflicting objectives.
 
 The Pareto front helps visualize the set of best trade-offs and is widely used in AI for solving multi-objective optimization problems where conflicting goals must be balanced.

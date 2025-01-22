@@ -8,3 +8,5 @@
 - $\mathcal{y}$ : used to denote whether a particular goal or condition (such as "the environment is clean") has been achieved (true, or false / 1 or 0)
 - $\mathcal{B}$ : The result of the function basically $\mathcal{y}$ 
 - Z: The time space (timeline).  It is defining that the observations (𝑜ₜ) and actions (𝑎ₜ) happen over time.
+
+- $\chi$: The Utility Function naps the combined actions of all agents ($\mathcal{A}$) to a reward or outcome in the joint target space $\mathcal{T}$. This utility measures how favorable the outcome is for the agents.

@@ -1,3 +1,4 @@
+
 > [!CITE] **Definition 15 (zero-sum game):**  
 > A normal-form game $(G, \mathcal{A}, \mathcal{T}, \chi)$ is a **zero-sum game** iff for any joint action $a = (a^{[1]}, \ldots, a^{[N]}) \in \mathcal{A}$, it holds that $\sum_{i=1}^{|G|} \chi^{[i]}(a) = 0$.
 

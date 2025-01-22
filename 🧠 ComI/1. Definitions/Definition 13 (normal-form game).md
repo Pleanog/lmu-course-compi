@@ -1,3 +1,4 @@
+
 > [!CITE] **Definition 13 (normal-form game):** 
 > Let $G = \{G^{[1]}, \ldots, G^{[N]}\}$ be a set of $|G|=N$ agents. Let $\mathcal{A} = \mathcal{A}^{[1]} \times \ldots \times \mathcal{A}^{[N]}$ be the space of joint actions where $\mathcal{A}^{[i]}$ is the set of actions available to agent $G^{[i]}$ for all  $i$. Let $\chi: \mathcal{A} \to \mathcal{T}$ be a utility function for the joint action space $\mathcal{A}$ and the joint target space $\mathcal{T} = \mathcal{T}^{[1]} \times \ldots \times \mathcal{T}^{[N]}$ where $\mathcal{T}^{[i]}$ is the target space of agent $G^{[i]}$ for all $i$. Unless stated otherwise, the utility $\chi$ is to be maximized. From $\chi$, we can derive a set of single-agent utility functions $\chi^{[i]} : \mathcal{A} \to \mathcal{T}^{[i]}$  for all $i$. A tuple $(G, \mathcal{A}, \mathcal{T}, \chi)$ is called a **normal-form game**. 
 
