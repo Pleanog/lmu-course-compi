@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🧠 ComI/1. Definitions/Definition 18 (best response).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Definition 18 (best response)"
+              "title": "README"
             }
           }
         ]
@@ -223,10 +223,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "789036ab9187c869",
+  "active": "bf760e86fc5c455e",
   "lastOpenFiles": [
-    "🧠 ComI/1. Definitions/Definition 19 (nash equilibrium).md",
+    "README.md",
+    "🧠 ComI/README.md",
+    "🧠 ComI/2. Algorithms/Algorithm 4 (basic evolutionary algorithm).md",
+    "🧠 ComI/3. Theorems/Theorem 1 (no free lunch).md",
     "🧠 ComI/1. Definitions/Definition 18 (best response).md",
+    "🧠 ComI/1. Definitions/Definition 19 (nash equilibrium).md",
     "🧠 ComI/1. Definitions/Definition 15 (zero-sum game).md",
     "🧠 ComI/3. Theorems/Theorem 4.md",
     "🧠 ComI/Exercise/Übung 16.01.25.md",
@@ -236,8 +240,6 @@
     "Definition 17.md",
     "🧠 ComI/Images/Pasted image 20250116130131 1.png",
     "🧠 ComI/Images/Pasted image 20250116130131.png",
-    "🧠 ComI/3. Theorems/Theorem 1 (no free lunch).md",
-    "🧠 ComI/2. Algorithms/Algorithm 4 (basic evolutionary algorithm).md",
     "🧠 ComI/2. Algorithms/Algorithm 3 (Simulated Annealing).md",
     "🧠 ComI/2. Algorithms/Algorithm 2 (random search(policy)).md",
     "🧠 ComI/2. Algorithms/Algorithm 1 (brute force (policy)).md",
@@ -252,8 +254,6 @@
     "🧠 ComI/1. Definitions/Definition 8.md",
     "🧠 ComI/1. Definitions/Definition 7 (pareto front for optimization).md",
     "🧠 ComI/1. Definitions/Definition 6 (nulti-objective-optimization).md",
-    "🧠 ComI/1. Definitions/Definition 5 (population-based optimization (alternate)).md",
-    "🧠 ComI/1. Definitions/Definition 4 (population-based optimization).md",
     "🧠 ComI/Images/Pasted image 20250121123407.png",
     "🧠 ComI/Images/Pasted image 20250121123105.png",
     "🧠 ComI/Exercise Materials/2025-01-23 Writing Exercise 07 (Game Theory)/exercise_07.pdf",
