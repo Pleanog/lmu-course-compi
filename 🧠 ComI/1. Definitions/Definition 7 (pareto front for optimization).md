@@ -5,8 +5,6 @@ Let $\mathcal{E} = (\mathcal{X}, \mathcal{T}, \tau, \mathcal{E}, \langle X_u \ra
 > - A solution candidate $x$ is **Pareto-optimal** if there exists no other solution candidate $x' \in \mathcal{X}$ such that $x' \preceq x$.
 > - The set of all Pareto-optimal solution candidates in $\mathcal{X}$ is called the **Pareto front** of $\mathcal{X}$ (w.r.t. $\preceq$).
 
----
-
 ### ELI5:
 When buying a buying a laptop we care about **price** and **performance**. If one laptop is cheaper and faster than another, it’s obviously better—it **dominates** the other. But sometimes, one laptop might be cheaper while the other is faster, so you can’t say which is better outright.  
 The **Pareto front** is the list of all laptops that no other laptop can beat in **both** price and performance. These are the best choices when you consider all trade-offs.
@@ -14,7 +12,6 @@ The **Pareto front** is the list of all laptops that no other laptop can beat in
 ---
 
 ### Explanation of Components:
-**
 1. **Pareto-Dominance**:
     - A solution $x$ dominates another solution $x'$ if $x$ is at least as good as $x'$ in **all objectives** and strictly better in at least one.
     - In terms of laptops: Laptop $x$ dominates $x′$ if it’s as fast or faster **and** as cheap or cheaper.
@@ -27,7 +24,7 @@ The **Pareto front** is the list of all laptops that no other laptop can beat in
 
 ---
 
-### General Explanation:
+### Explanation:
 
 In multi-objective optimization, there’s often no single best solution because improving one objective (e.g., accuracy) can worsen another (e.g., computational cost). Instead of finding **one optimal solution**, we identify all solutions that represent the best possible compromises—this is the Pareto front.
 
@@ -37,7 +34,7 @@ The **Pareto front** is a key concept in AI and machine learning for problems li
 
 ### Summary:
 
-1. **Pareto-Dominance**: A solution xxx dominates $x'$ if $x$ is better or equal in all objectives and better in at least one.
+1. **Pareto-Dominance**: A solution$x$ dominates $x'$ if $x$ is better or equal in all objectives and better in at least one.
 2. **Pareto-Optimal**: A solution $x$ is Pareto-optimal if no other solution dominates it.
 3. **Pareto Front**: The set of all Pareto-optimal solutions, representing the best trade-offs among conflicting objectives.
 

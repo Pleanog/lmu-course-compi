@@ -4,30 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "6d39ee70f7b69972",
-        "type": "tabs",
-        "dimension": 44.32114882506528,
-        "children": [
-          {
-            "id": "789036ab9187c869",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          }
-        ]
-      },
-      {
         "id": "b65c6c74aafc5f8e",
         "type": "tabs",
-        "dimension": 55.67885117493473,
+        "dimension": 50,
         "children": [
           {
             "id": "bf760e86fc5c455e",
@@ -35,12 +14,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🧠 ComI/1. Definitions/Definition 19 (nash equilibrium).md",
+                "file": "🧠 ComI/3. Theorems/Theorem 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Definition 19 (nash equilibrium)"
+              "title": "Theorem 3"
+            }
+          },
+          {
+            "id": "f3632da10904e381",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🧠 ComI/3. Theorems/Theorem 4 (Nash's Theorem).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Theorem 4 (Nash's Theorem)"
             }
           },
           {
@@ -49,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🧠 ComI/Lectures/2025-01-14 Lecture 12.md",
+                "file": "🧠 ComI/1. Definitions/Definition 18 (best response).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-14 Lecture 12"
+              "title": "Definition 18 (best response)"
             }
           },
           {
@@ -71,7 +64,58 @@
               "title": "Definition 13 (normal-form game)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "ce6d016cc7a333f5",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "ce0e552b90b4f0d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🧠 ComI/2. Algorithms/Algorithm 4 (basic evolutionary algorithm).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Algorithm 4 (basic evolutionary algorithm)"
+            }
+          },
+          {
+            "id": "5cf7ee27b099432c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🧠 ComI/2. Algorithms/Algorithm 5 (gradient descent).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Algorithm 5 (gradient descent)"
+            }
+          },
+          {
+            "id": "b309afde4d93e5c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🧠 ComI/1. Definitions/Definition 8 (neural network).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Definition 8 (neural network)"
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -223,48 +267,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf760e86fc5c455e",
+  "active": "f3632da10904e381",
   "lastOpenFiles": [
-    "README.md",
-    "🧠 ComI/README.md",
+    "🧠 ComI/3. Theorems/Theorem 3.md",
+    "🧠 ComI/Lecture Slides/2024-12-03 Lecture 08/coin-2024-12-03-scribbled.pdf",
+    "🧠 ComI/1. Definitions/Definition 8 (neural network).md",
+    "🧠 ComI/1. Definitions/Definition 6 (nulti-objective-optimization).md",
+    "🧠 ComI/1. Definitions/Definition 7 (pareto front for optimization).md",
+    "🧠 ComI/2. Algorithms/Algorithm 6 (gradient descent (policy)).md",
+    "🧠 ComI/Lecture Slides/2024-11-26 Lecture 07/coin-2024-11-26-scribbled.pdf",
+    "🧠 ComI/2. Algorithms/Algorithm 5 (gradient descent).md",
     "🧠 ComI/2. Algorithms/Algorithm 4 (basic evolutionary algorithm).md",
     "🧠 ComI/3. Theorems/Theorem 1 (no free lunch).md",
-    "🧠 ComI/1. Definitions/Definition 18 (best response).md",
-    "🧠 ComI/1. Definitions/Definition 19 (nash equilibrium).md",
-    "🧠 ComI/1. Definitions/Definition 15 (zero-sum game).md",
-    "🧠 ComI/3. Theorems/Theorem 4.md",
-    "🧠 ComI/Exercise/Übung 16.01.25.md",
-    "🧠 ComI/Übung 16.01.25.md",
-    "🧠 ComI/Exercise",
+    "🧠 ComI/Lecture Slides/2024-11-19 Lecture 06/coin-2024-11-19-scribbled.pdf",
+    "🧠 ComI/Lectures/2024-11-26 Lecture 07.md",
+    "🧠 ComI/Lectures/2024-11-19 Lecture 06.md",
+    "🧠 ComI/Lecture Slides/2024-11-05 Lecture 04/coin-2024-11-05-scribbled.pdf",
+    "🧠 ComI/Lectures/2024-10-24 Lecture 03.md",
+    "🧠 ComI/Lectures/2024-11-05 Lecture 04.md",
+    "🧠 ComI/Lectures/2024-11-12 Lecture 05.md",
+    "🧠 ComI/Lectures/2024-12-05 Lecture 09.md",
+    "🧠 ComI/Lectures/2024-10-15 Lecture 01.md",
+    "🧠 ComI/1. Definitions/Definition 20 (evolutionary stable strategy 2).md",
     "🧠 ComI/1. Definitions/Definition 17 (Pareto front for strategies).md",
-    "Definition 17.md",
+    "🧠 ComI/Lecture Slides/2025-01-21 Lecture 13/coin-2025-01-21-preview.pdf",
+    "🧠 ComI/3. Theorems/Theorem 4 (Nash's Theorem).md",
+    "🧠 ComI/1. Definitions/Definition 18 (best response).md",
+    "🧠 ComI/3. Theorems/Theorem 2.md",
+    "🧠 ComI/1. Definitions/Definition 16 (strategy).md",
+    "🧠 ComI/Lectures/2025-01-21 Lecture 13.md",
+    "🧠 ComI/Lectures/2025-01-14 Lecture 12.md",
+    "🧠 ComI/1. Definitions/Definition 19 (nash equilibrium).md",
+    "🧠 ComI/1. Definitions/Definition 1 (Agent).md",
+    "🧠 ComI/Exercise",
     "🧠 ComI/Images/Pasted image 20250116130131 1.png",
     "🧠 ComI/Images/Pasted image 20250116130131.png",
-    "🧠 ComI/2. Algorithms/Algorithm 3 (Simulated Annealing).md",
-    "🧠 ComI/2. Algorithms/Algorithm 2 (random search(policy)).md",
-    "🧠 ComI/2. Algorithms/Algorithm 1 (brute force (policy)).md",
-    "🧠 ComI/1. Definitions/Symbols.md",
-    "🧠 ComI/1. Definitions/Definition 16 (strategy).md",
-    "🧠 ComI/1. Definitions/Definition 14 (common-payoff game).md",
-    "🧠 ComI/1. Definitions/Definition 13 (normal-form game).md",
-    "🧠 ComI/1. Definitions/Definition 12 (multi-agent system).md",
-    "🧠 ComI/1. Definitions/Definition 11 (Training a neural network).md",
-    "🧠 ComI/1. Definitions/Definition 10.md",
-    "🧠 ComI/1. Definitions/Definition 9.md",
-    "🧠 ComI/1. Definitions/Definition 8.md",
-    "🧠 ComI/1. Definitions/Definition 7 (pareto front for optimization).md",
-    "🧠 ComI/1. Definitions/Definition 6 (nulti-objective-optimization).md",
     "🧠 ComI/Images/Pasted image 20250121123407.png",
     "🧠 ComI/Images/Pasted image 20250121123105.png",
     "🧠 ComI/Exercise Materials/2025-01-23 Writing Exercise 07 (Game Theory)/exercise_07.pdf",
     "🧠 ComI/Exercise Materials/2025-01-16 Reading Exercise (Current AI Research)/coin-reading-2025-01-16-source-romera-paredes-et-al.pdf",
     "🧠 ComI/Exercise Materials/2025-01-16 Reading Exercise (Current AI Research)/coin-reading-2025-01-16-source-hafner-et-al.pdf",
     "🧠 ComI/Exercise Materials/2025-01-16 Reading Exercise (Current AI Research)/coin-reading-2025-01-16-preview.pdf",
-    "🧠 ComI/Exercise Materials/2025-01-09 Writing Exercise 06 (Reinforcement Learning 2)/sarsa_agent.py",
-    "🧠 ComI/Exercise Materials/2025-01-09 Writing Exercise 06 (Reinforcement Learning 2)/exercise_06_solution.pdf",
-    "🧠 ComI/Exercise Materials/2025-01-09 Writing Exercise 06 (Reinforcement Learning 2)/vacuum_world_rl_solution.zip",
-    "🧠 ComI/Exercise Materials/2025-01-09 Writing Exercise 06 (Reinforcement Learning 2)/exercise_06.pdf",
-    "🧠 ComI/Exercise Materials/2024-12-19 Reading Exercise 03 (Bostrom, Kurzweil, Asimov)/coin-reading-2024-12-19-source-kurzweil.pdf",
     "🧠 ComI/Images/Pasted image 20250116134230.png",
     "🧠 ComI/Images/Pasted image 20250116130817.png",
     "🧠 ComI/Images/Pasted image 20250116130758.png",

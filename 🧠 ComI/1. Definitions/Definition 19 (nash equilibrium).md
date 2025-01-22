@@ -3,13 +3,11 @@
 > Let $(G, A, T, \chi)$ be a normal-form game played for a single iteration. A joint strategy $\pi$ is a **Nash equilibrium** if and only if, for all agents $G^{[i]}$, it holds that $\pi^{[i]}$ is the **best response** to $\pi^{[-i]}$.
 
 ### ELI5:
-
 Imagine you and a group of friends are playing a game. A **Nash equilibrium** happens when everyone is making the **best possible move** they can, **given what everyone else is doing**. At this point, no one has any reason to change their strategy because changing wouldn’t make them do any better.
 
 ---
 
-### Explanation of the Components:
-
+### Explanation of Components:
 1. **$(G, A, T, \chi)$:**
     - This represents the setup of the game:
         - $G$: The group of players (agents) in the game.

@@ -1,6 +1,6 @@
 
 >[!CITE ] **Definition 18 (best response)**
->Let $(G, A, T, \chi)$ be a normal-form game. Let $\pi^{[-i]}$ be a joint strategy of agents $G^{[1]}, \dots, G^{[i-1]}, G^{[i+1]}, \dots, G^{[N]}$, i.e., all agents except $G^{[i]}$.
+>Let $(G, \mathcal{A}, \mathcal{T}, \chi)$ be a normal-form game. Let $\pi^{[-i]}$ be a joint strategy of agents $G^{[1]}, \dots, G^{[i-1]}, G^{[i+1]}, \dots, G^{[N]}$, i.e., all agents except $G^{[i]}$.
 >Let $\pi^{[i]} \oplus \pi^{[-i]}$ be a joint strategy of all agents. Given a strategy $\pi^{[-i]}$ for all agents except $G^{[i]}$, $G^{[i]}$'s **best response** is the strategy $\pi^{*[i]}$ so that for all strategies $\pi'^{[i]}$ it holds that:
 $$\chi^{[i]}((\pi^{*[i]} \oplus \pi^{[-i]})(-)) \geq \chi^{[i]}((\pi'^{[i]} \oplus \pi^{[-i]})(-)).$$
 

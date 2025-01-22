@@ -10,7 +10,6 @@ So, for any search/optimization algorithm, any elevated performance over one cla
 #### Theorem Statement
 
 The **No Free Lunch Theorem** states that:
-
 > "If we consider all possible target functions $\tau$, then all optimization algorithms perform equally well on average when measured by sample efficiency."
 
 #### Elements in the Theorem
