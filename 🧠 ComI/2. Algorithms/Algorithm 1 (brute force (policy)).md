@@ -37,3 +37,4 @@ The algorithm goes through a list of possible policies (plans) one by one to fin
 
 - This algorithm is a **baseline approach** to policy search. While simple, it is computationally expensive because it checks each possible policy one by one.
 - The utility of this method lies in ensuring completeness: if a valid policy exists in $\Pi$, it will eventually be found.
+

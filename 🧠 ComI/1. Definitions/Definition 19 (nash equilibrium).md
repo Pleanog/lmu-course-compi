@@ -49,3 +49,4 @@ A Nash equilibrium ensures that **no single agent can improve its performance** 
     
 - **In AI:**  
     The concept is crucial for modeling how intelligent agents interact in environments where their decisions depend on one another. It ensures stability and optimal decision-making in competitive or cooperative settings.
+

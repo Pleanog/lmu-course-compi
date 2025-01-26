@@ -4,73 +4,98 @@
     "type": "split",
     "children": [
       {
-        "id": "b65c6c74aafc5f8e",
+        "id": "ce6d016cc7a333f5",
         "type": "tabs",
-        "dimension": 35.099999999999994,
+        "dimension": 47.25274725274725,
         "children": [
           {
-            "id": "3361901b9140cfbd",
+            "id": "3f8eae8761af2001",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "🧠 ComI/Lecture Slides/2024-12-05 Lecture 09/coin-2024-12-05-scribbled.pdf"
+                "file": "🧠 ComI/Exams/2023-ws-coin-linhoff_popien-probe-klausur-20.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "coin-2024-12-05-scribbled"
+              "title": "2023-ws-coin-linhoff_popien-probe-klausur-20"
+            }
+          },
+          {
+            "id": "587d0b021b6462c2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "🧠 ComI/Exams/2022-ws-coin-gabor-2.klausur-loesung-17.pdf.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2022-ws-coin-gabor-2.klausur-loesung-17.pdf"
+            }
+          },
+          {
+            "id": "685cb8cab75006a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🧠 ComI/Lectures/2025-01-21 Lecture 13.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-01-21 Lecture 13"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "ce6d016cc7a333f5",
+        "id": "a6cb91b5ae5a70c9",
         "type": "tabs",
-        "dimension": 64.9,
+        "dimension": 52.74725274725275,
         "children": [
+          {
+            "id": "6b132bfba7f04f28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🧠 ComI/Lectures/2024-10-24 Lecture 03.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-10-24 Lecture 03"
+            }
+          },
           {
             "id": "ce0e552b90b4f0d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🧠 ComI/2. Algorithms/Algorithm 4 (basic evolutionary algorithm).md",
+                "file": "🧠 ComI/Exams/Thoughts - 2023-ws-coin-linhoff_popien-probe-klausur-20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Algorithm 4 (basic evolutionary algorithm)"
+              "title": "Thoughts - 2023-ws-coin-linhoff_popien-probe-klausur-20"
             }
           },
           {
-            "id": "5cf7ee27b099432c",
+            "id": "174c267bdf12a596",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "🧠 ComI/3. Theorems/Theorem 2 (Kolmogorov-Arnold representation 2).md",
-                "mode": "source",
-                "source": false
+                "file": "🧠 ComI/Exams/falschbebannt.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Theorem 2 (Kolmogorov-Arnold representation 2)"
-            }
-          },
-          {
-            "id": "3f8eae8761af2001",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🧠 ComI/1. Definitions/Definition 6 (nulti-objective-optimization).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Definition 6 (nulti-objective-optimization)"
+              "icon": "lucide-file-text",
+              "title": "falschbebannt"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +126,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Definition 7",
+                "query": "goal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 524.501522064209
   },
   "right": {
     "id": "b455d101fe051e52",
@@ -222,53 +247,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "18b8d3e0e5863e42",
+  "active": "587d0b021b6462c2",
   "lastOpenFiles": [
-    "🧠 ComI/Images/Pasted image 20250122203651.png",
-    "🧠 ComI/Lecture Slides/2024-12-05 Lecture 09/coin-2024-12-05-scribbled.pdf",
-    "🧠 ComI/3. Theorems/Theorem 2 (Kolmogorov-Arnold representation 2).md",
+    "🧠 ComI/Lectures/2025-01-21 Lecture 13.md",
+    "🧠 ComI/Exams/falschbebannt.pdf",
+    "🧠 ComI/Exams/2022-ws-coin-gabor-2.klausur-loesung-17.pdf.pdf",
+    "🧠 ComI/Exams/2023-ws-coin-gabor-0.klausur-20.pdf",
+    "🧠 ComI/Exams/2023-ws-coin-gabor-0.klausur-loesung-22.pdf",
+    "🧠 ComI/Exams/2023-ws-coin-gabor-1.klausur-19.pdf",
+    "🧠 ComI/Exams/2023-ws-coin-gabor-1.klausur-loesung-19.pdf",
+    "🧠 ComI/Exams/2023-ws-coin-gabor-probe-klausur-20.pdf",
+    "🧠 ComI/Exams/2023-ws-coin-gabor-probe-klausur-loesung-22.pdf",
+    "🧠 ComI/Exams/2023-ws-coin-linhoff_popien-klausur-19.pdf",
+    "🧠 ComI/Exams/2023-ws-coin-linhoff_popien-klausur-loesund-19.pdf",
+    "🧠 ComI/Exams/Thoughts -.md",
+    "🧠 ComI/Exams/Thoughts - 2023-ws-coin-linhoff_popien-klausur-19.md",
+    "🧠 ComI/Exams/Thoughts - 2023-ws-coin-linhoff_popien-probe-klausur-20.md",
+    "🧠 ComI/1. Definitions/Definition 3 (optimization (policy)).md",
+    "🧠 ComI/Lectures/2024-10-24 Lecture 03.md",
+    "🧠 ComI/1. Definitions/Definition 19 (nash equilibrium).md",
+    "🧠 ComI/Lectures/2024-10-17 Lecture 02.md",
+    "🧠 ComI/1. Definitions/Symbols.md",
+    "🧠 ComI/2. Algorithms/Algorithm 1 (brute force (policy)).md",
     "🧠 ComI/1. Definitions/Definition 6 (nulti-objective-optimization).md",
+    "🧠 ComI/1. Definitions/Definition 1 (Agent).md",
+    "🧠 ComI/2. Algorithms/Algorithm 4 (basic evolutionary algorithm).md",
+    "🧠 ComI/Lectures/2024-10-15 Lecture 01.md",
+    "🧠 ComI/3. Theorems/Theorem 2 (Kolmogorov-Arnold representation 2).md",
+    "🧠 ComI/Images/Pasted image 20250122203651.png",
     "🧠 ComI/2. Algorithms/Algorithm 5 (gradient descent).md",
     "🧠 ComI/1. Definitions/Definition 11 (Training a neural network).md",
     "🧠 ComI/1. Definitions/Definition 8 (neural network).md",
-    "🧠 ComI/2. Algorithms/Algorithm 4 (basic evolutionary algorithm).md",
     "🧠 ComI/1. Definitions/Definition 9.md",
-    "🧠 ComI/Lecture Slides/2024-12-03 Lecture 08/coin-2024-12-03-scribbled.pdf",
     "🧠 ComI/1. Definitions/Definition 13 (normal-form game).md",
     "🧠 ComI/1. Definitions/Definition 18 (best response).md",
     "🧠 ComI/3. Theorems/Theorem 3.md",
     "🧠 ComI/3. Theorems/Theorem 4 (Nash's Theorem).md",
     "🧠 ComI/1. Definitions/Definition 7 (pareto front for optimization).md",
     "🧠 ComI/2. Algorithms/Algorithm 6 (gradient descent (policy)).md",
-    "🧠 ComI/Lecture Slides/2024-11-26 Lecture 07/coin-2024-11-26-scribbled.pdf",
-    "🧠 ComI/3. Theorems/Theorem 1 (no free lunch).md",
-    "🧠 ComI/Lecture Slides/2024-11-19 Lecture 06/coin-2024-11-19-scribbled.pdf",
-    "🧠 ComI/Lectures/2024-11-26 Lecture 07.md",
-    "🧠 ComI/Lectures/2024-11-19 Lecture 06.md",
-    "🧠 ComI/Lecture Slides/2024-11-05 Lecture 04/coin-2024-11-05-scribbled.pdf",
-    "🧠 ComI/Lectures/2024-10-24 Lecture 03.md",
-    "🧠 ComI/Lectures/2024-11-05 Lecture 04.md",
-    "🧠 ComI/Lectures/2024-11-12 Lecture 05.md",
-    "🧠 ComI/Lectures/2024-12-05 Lecture 09.md",
-    "🧠 ComI/Lectures/2024-10-15 Lecture 01.md",
-    "🧠 ComI/1. Definitions/Definition 20 (evolutionary stable strategy 2).md",
-    "🧠 ComI/1. Definitions/Definition 17 (Pareto front for strategies).md",
-    "🧠 ComI/Lecture Slides/2025-01-21 Lecture 13/coin-2025-01-21-preview.pdf",
-    "🧠 ComI/1. Definitions/Definition 16 (strategy).md",
-    "🧠 ComI/Lectures/2025-01-21 Lecture 13.md",
-    "🧠 ComI/Exercise",
     "🧠 ComI/Images/Pasted image 20250116130131 1.png",
     "🧠 ComI/Images/Pasted image 20250116130131.png",
     "🧠 ComI/Images/Pasted image 20250121123407.png",
     "🧠 ComI/Images/Pasted image 20250121123105.png",
-    "🧠 ComI/Exercise Materials/2025-01-23 Writing Exercise 07 (Game Theory)/exercise_07.pdf",
-    "🧠 ComI/Exercise Materials/2025-01-16 Reading Exercise (Current AI Research)/coin-reading-2025-01-16-source-romera-paredes-et-al.pdf",
-    "🧠 ComI/Exercise Materials/2025-01-16 Reading Exercise (Current AI Research)/coin-reading-2025-01-16-source-hafner-et-al.pdf",
     "🧠 ComI/Images/Pasted image 20250116134230.png",
     "🧠 ComI/Images/Pasted image 20250116130817.png",
     "🧠 ComI/Images/Pasted image 20250116130758.png",
     "🧠 ComI/Images/Pasted image 20241210114832.png",
-    "🧠 ComI/Images/Pasted image 20250114134621.png",
-    "🧠 ComI/Images/Pasted image 20241210114854.png"
+    "🧠 ComI/Images/Pasted image 20250114134621.png"
   ]
 }
