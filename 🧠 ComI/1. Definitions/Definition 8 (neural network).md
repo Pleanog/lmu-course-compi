@@ -1,5 +1,5 @@
 > [!CITE] Definition 8 (neural network)
-A neural network (NN) is a function $\mathcal{N}: \mathbb{R}^p \to \mathbb{R}^q$ with $p$ inputs and $q$ outputs. This function is defined via a graph made up of $r$ layers $L_1, ..., L_r$, where each layer $L_l$ consists of $|L_l|$ cells $C_{l,1}, ..., C_{l,|L_l|}$, which make up the graph's vertices. Each cell $C_{l,c}$ of the layer $L_l$ is connected to all cells of the previous layer, i.e., $C_{l-1,d}$ for $d = 1, ..., |L_{l-1}|$, via the graph's edges.
+A neural network (N) is a function $\mathcal{N}: \mathbb{R}^p \to \mathbb{R}^q$ with $p$ inputs and $q$ outputs. This function is defined via a graph made up of $r$ layers $L_1, ..., L_r$, where each layer $L_l$ consists of $|L_l|$ cells $C_{l,1}, ..., C_{l,|L_l|}$, which make up the graph's vertices. Each cell $C_{l,c}$ of the layer $L_l$ is connected to all cells of the previous layer, i.e., $C_{l-1,d}$ for $d = 1, ..., |L_{l-1}|$, via the graph's edges.
 >
 Each edge of a cell $C_{l,c}$ is assigned an edge weight $E_{l,c,e} \in \mathbb{R}$, $e = 1, ..., |L_{l-1}|$.  
 Given a fixed graph structure and activation function $f: \mathbb{R} \to \mathbb{R}$, the vector of all edge weights is
