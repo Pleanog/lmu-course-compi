@@ -16,7 +16,7 @@ The **Pareto front** is the list of all laptops that no other laptop can beat in
     - A solution $x$ dominates another solution $x'$ if $x$ is at least as good as $x'$ in **all objectives** and strictly better in at least one.
     - In terms of laptops: Laptop $x$ dominates $x′$ if it’s as fast or faster **and** as cheap or cheaper.
 2. **Pareto-Optimal**:
-    - A solution xxx is Pareto-optimal if **no other solution** dominates it.
+    - A solution $x$ is Pareto-optimal if **no other solution** dominates it.
     - Think of it as the best possible trade-off—you can’t improve in one objective without sacrificing another.
 3. **Pareto Front**:
     - This is the set of all Pareto-optimal solutions.

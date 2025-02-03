@@ -66,4 +66,7 @@ $$\pi((x_p, y_p), (x_g, y_g)) =
 (0, -0.1, \text{False}) & \text{else if } y_g - y_p < -0.1, \\
 (0, 0, \text{True}) & \text{otherwise}.
 \end{cases}$$
-### 2. **Pseudocode**
+---
+## 3  Optimization and Fuzzy Logic
+
+## (i)

@@ -43,10 +43,8 @@ A Nash equilibrium ensures that **no single agent can improve its performance** 
 
 - **Definition:**  
     A Nash equilibrium occurs when each player’s strategy is the best response to everyone else’s strategies.
-    
 - **In simpler terms:**  
     It’s a situation where no one has an incentive to change their move because they are already doing the best they can, given what others are doing.
-    
 - **In AI:**  
     The concept is crucial for modeling how intelligent agents interact in environments where their decisions depend on one another. It ensures stability and optimal decision-making in competitive or cooperative settings.
 

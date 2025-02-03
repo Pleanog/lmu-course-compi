@@ -1,5 +1,5 @@
 - $\mathcal{O}$ : Represents the observation space.
--  𝒜 : Represents the action space.
+- 𝒜 : Represents the action space.
 - ℝ: Real numbers, representing percentage changes.
 - T: Often used for Timestamps for observations.
 - × (Cartesian product): Combines sets to form tuples of all possible combinations.

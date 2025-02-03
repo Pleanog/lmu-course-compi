@@ -1,6 +1,6 @@
 
 > [!CITE] **Definition 17 (Pareto front for strategies):**  
-Let $(G, \mathcal{A}, \mathcal{T}, \chi)$ be a normal-form game. A joint strategy $\pi(-) = (\pi^{[1]}(-), \ldots, \pi^{[|G|]}(-))$ **Pareto-dominates** another joint strategy $\pi'(-) = (\pi^{\prime[1]}(-), \ldots, \pi^{\prime[|G|]}(-))$ $iff$ for all agents $G^{[i]}$, it holds that $$\chi^{[i]}(\pi(-)) \geq \chi^{[i]}(\pi'(-))$$ and there exists some agent $G^{[j]}$ so that $$\chi^{[j]}(\pi(-)) > \chi^{[j]}(\pi'(-))$$.  
+Let $(G, \mathcal{A}, \mathcal{T}, \chi)$ be a normal-form game. A joint strategy $\pi(\_) = (\pi^{[1]}(-), \ldots, \pi^{[|G|]}(\_))$ **Pareto-dominates** another joint strategy $\pi'(\_) = (\pi^{\prime[1]}(\_), \ldots, \pi^{\prime[|G|]}(\_))$ $iff$ for all agents $G^{[i]}$, it holds that $$\chi^{[i]}(\pi(\_)) \geq \chi^{[i]}(\pi'(\_))$$ and there exists some agent $G^{[j]}$ so that $$\chi^{[j]}(\pi(\_)) > \chi^{[j]}(\pi'(\_))$$.  
 A joint strategy $\pi$ is **Pareto-optimal** $iff$ there is no other strategy $\pi'$ so that $\pi'$ Pareto-dominates $\pi$.
 
 ## ELI5

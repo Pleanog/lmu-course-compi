@@ -20,7 +20,7 @@ The goal during training is typically to **minimize** this loss function (i.e., 
 - **The Neural Network $\mathcal{N}$**:
     - This is the model being used. It takes in some numbers (inputs, $\mathbf{x}_i$​) and returns some numbers (outputs, $\mathbf{y}_i$).
     - Inside, it has "weights" ($\mathbf{w}$) and optional "biases" ($\mathbf{b}$) that determine what it does.
--  **The currect answer $\mathbf{y}_i$**
+-  **The correct answer $\mathbf{y}_i$**
 	- $\mathbf{y}_i$​ is the **true label** or **actual value** associated with the i-th sample. This is the ground truth we want the model to predict correctly.
 - **Training Data $\mathcal{T}$**:
     - A collection of examples where input and output are allready currectly defined:

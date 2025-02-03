@@ -18,7 +18,7 @@ x_t, & \text{otherwise},
 
 Simulated annealing is like trying to climb down a mountain to find the lowest valley, but sometimes you deliberately climb a little uphill to avoid getting stuck in a smaller valley. The "neighbors" are like nearby paths you can take, and the "temperature" controls how willing you are to climb uphill: at high temperatures, you're more willing to explore worse paths, but as the temperature decreases, you become more selective.
 
-The graph shows this process: you can see the algorithm exploring both good (downhill) and bad (uphill) paths, but gradually focusing on better areas as time progresses.
+The graph shows this process: we can see the algorithm exploring both good (downhill) and bad (uphill) paths, but gradually focusing on better areas as time progresses.
 
 ---
 ### Components of the Definition

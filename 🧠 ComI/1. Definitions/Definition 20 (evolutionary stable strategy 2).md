@@ -1,7 +1,7 @@
 >[!CITE] **Definition 20 (evolutionary stable strategy [2]).**  
 Let $(G, \mathcal{A}, \mathcal{T}, \chi)$ be a normal-form game played by two players $i,−i$ with the same action space $\mathcal{A}^{[i]} = \mathcal{A}^{[-i]}$. A strategy $\pi^{[i]}$ for agent $G^{[i]}$ is an **evolutionary stable strategy** $iff$:
 > - $\pi = \pi^{[i]} \oplus \pi^{[-i]}$ with $\pi^{[-i]} = \pi^{[i]}$ is a Nash equilibrium, and
-> - for every other strategy $\pi'^{[i]} = \pi'^{[-i]} \neq \pi^{[i]}$ it holds that $$\chi^{[i]}((\pi^{[i]} \oplus \pi'^{[-i]})(\cdot)) > \chi^{[i]}((\pi'^{[i]} \oplus \pi'^{[-i]})(\cdot))$$.
+> - for every other strategy $\pi'^{[i]} = \pi'^{[-i]} \neq \pi^{[i]}$ it holds that $$\chi^{[i]}((\pi^{[i]} \oplus \pi'^{[-i]})(\_)) > \chi^{[i]}((\pi'^{[i]} \oplus \pi'^{[-i]})(\_))$$.
 
 ### ELI5
 
